@@ -21,7 +21,7 @@ In this project, I took the first steps towards addressing this problem by build
 
 ### Getting started
 
-I tranined the convolutional neural network in the provided Udacity GPU enabled workspace in my classroom. I also utilised ResNet-18 built in model 
+I tranined the convolutional neural network in the provided Udacity GPU enabled workspace in my classroom. I also utilised ResNet-18 pre-trained in model 
 
 #### Setting up locally
 
@@ -31,7 +31,7 @@ This setup requires a bit of familiarity with creating a working deep learning e
 	
 	```	
 		git clone https://github.com/omogbolahan94/Landmark-Classifier-CNN-.git
-		cd cd1821-CNN-project-starter
+		cd Landmark-Classifier-CNN-
 	```
     
 2. Create a new conda environment with python 3.7.6:
